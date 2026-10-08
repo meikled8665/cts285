@@ -8,17 +8,18 @@ The Texas Instramunts Dataman from the 1970's will be remade digitally using mod
 
 ## Evidence Notes
 
-- **E-01 — Source:** [DataMan manual / elicitation case / simulation / other confirmed source]  
-  **Evidence:** [What does the source tell you?]
+- **E-01 — Source:** manual
 
-- **E-02 — Source:** [source]  
-  **Evidence:** [evidence statement]
+  **Evidence:** "parents, teachers, or friends can put up to 10 problems into DataMan's memory for children to work. With this feature, individual "special" problems or a specific series of exercises can be practiced in a fun way, while DataMan keeps score and provides excitement."
 
-- **E-03 — Source:** [source]  
-  **Evidence:** [evidence statement]
+- **E-02 — Source:** Simulation  
+  **Evidence:** "The primary learner is a student practicing independently, often with a teacher or parent nearby. Exact device and access conditions have not yet been confirmed."
 
-- **E-04 — Source:** [source]  
-  **Evidence:** [evidence statement]
+- **E-03 — Source:** Manual  
+  **Evidence:** "DataMan™ is designed to bring extra fun. excitement, and enrichment to a child's experiences with mathematics. The learning activities built into DataMan provide valuable drill, practice, and exploration with numbers for both elementary and middle school students."
+
+- **E-04 — Source:** Simulation  
+  **Evidence:** "Stakeholders identify immediate answer feedback, repeated practice after an incorrect response, and a clear way for learners to see progress as central to the original experience."
 
 ## Functional Requirements
 
