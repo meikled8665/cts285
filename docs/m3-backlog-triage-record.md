@@ -17,6 +17,6 @@ The account/session approach is not ready, increasing uncertainty for work that 
 - No decisions changed.
 
 ## Reflection Prompts for Canvas
-1. Which one decision was hardest to make, and what tradeoff mattered most?
-2. Which decision changed after the complication, and why? If none changed, explain why your original decisions still held.
-3. What will you carry into your DataMan product backlog before the Product Owner Sprint Simulation?
+1. Which one decision was hardest to make, and what tradeoff mattered most? I really wanted to add themes, but I can defer it at first to work on more important core features like accounts/sessions and the dashboards.
+2. Which decision changed after the complication, and why? If none changed, explain why your original decisions still held.  The choices I made were mostly unaffected by the account issues since they were already planned to be refined and added after the issues are fixed.
+3. What will you carry into your DataMan product backlog before the Product Owner Sprint Simulation? Immediate answer feedback, retry after an incorrect response
